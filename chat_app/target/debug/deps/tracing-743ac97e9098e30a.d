@@ -1,0 +1,13 @@
+/home/fuez/Programming/rust-code/chat_app/target/debug/deps/tracing-743ac97e9098e30a.rmeta: /home/fuez/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/lib.rs /home/fuez/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/macros.rs /home/fuez/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/dispatcher.rs /home/fuez/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/field.rs /home/fuez/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/instrument.rs /home/fuez/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/level_filters.rs /home/fuez/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/span.rs /home/fuez/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/stdlib.rs /home/fuez/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/subscriber.rs
+
+/home/fuez/Programming/rust-code/chat_app/target/debug/deps/tracing-743ac97e9098e30a.d: /home/fuez/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/lib.rs /home/fuez/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/macros.rs /home/fuez/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/dispatcher.rs /home/fuez/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/field.rs /home/fuez/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/instrument.rs /home/fuez/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/level_filters.rs /home/fuez/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/span.rs /home/fuez/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/stdlib.rs /home/fuez/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/subscriber.rs
+
+/home/fuez/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/lib.rs:
+/home/fuez/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/macros.rs:
+/home/fuez/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/dispatcher.rs:
+/home/fuez/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/field.rs:
+/home/fuez/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/instrument.rs:
+/home/fuez/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/level_filters.rs:
+/home/fuez/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/span.rs:
+/home/fuez/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/stdlib.rs:
+/home/fuez/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/subscriber.rs:
